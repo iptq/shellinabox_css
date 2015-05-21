@@ -20,3 +20,9 @@
 #vt100 .bgAnsi0 {
   background-color: #ffffff;
 }
+
+@import url(//fonts.googleapis.com/css?family=Share+Tech+Mono);
+
+* {
+	font-family: 'Share Tech Mono', ;
+}
